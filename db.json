@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "xoji",
+      "email": "xoji@test.com",
+      "password": "xoji2007dev"
+    },
+    {
+      "email": "xoji@test.com",
+      "name": "Xoji",
+      "password": "xoji2007dev",
+      "id": 2
+    },
+    {
+      "email": "hoji@test.com",
+      "name": "hoji",
+      "password": "hoji2007",
+      "id": 3
+    },
+    {
+      "email": "fedw@.com",
+      "name": "hoji",
+      "password": "jkfiwvr",
+      "id": 4
+    },
+    {
+      "email": "abu@test.xom",
+      "name": "abu",
+      "password": "abu123",
+      "id": 5
+    }
+  ]
+}
